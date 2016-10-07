@@ -1,0 +1,9 @@
+{
+  "name": "workbench-sf-extension",
+  "private": true,
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  },
+  "devDependencies": {}
+}
